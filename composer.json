@@ -1,0 +1,12 @@
+{
+    "name": "pocok/selenium-drivers",
+    "description": "Selenium Drivers",
+    "type": "driver",
+    "authors": [
+        {
+            "name": "Szekeres Tamás",
+            "email": "pocok256@gmail.com"
+        }
+    ],
+    "require": {}
+}
